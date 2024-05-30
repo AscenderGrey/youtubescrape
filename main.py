@@ -1,4 +1,5 @@
 def main():
-    print("hello world")
+    name = input("Name: ")
+    print(f"hello {name}")
 
 main()
